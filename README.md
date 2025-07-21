@@ -180,7 +180,8 @@ npm run pack
 ## 🤝 Поддержка
 
 Для вопросов и предложений:
-- Email: support@healthtracker2025.com
+- Coder: atomcorp
+- Email: radexo@yandex.ru
 - GitHub Issues: [создать issue](https://github.com/healthtracker/healthtracker-2025/issues)
 
 ## 📄 Лицензия
