@@ -33,7 +33,9 @@
     "directories": {
       "output": "dist"
     },
+	"asar": false,
     "files": [
+	  "**/*",
       "index.html",
       "style.css",
       "app.js",
