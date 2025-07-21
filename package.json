@@ -2,7 +2,7 @@
   "name": "healthtracker-2025",
   "version": "1.0.0",
   "description": "Профессиональное приложение для отслеживания показателей тела, тренировок и здоровья",
-  "main": "electron/main.js",
+  "main": "main.js",
   "author": "HealthTracker Team",
   "license": "MIT",
   "homepage": ".",
@@ -29,10 +29,9 @@
   "build": {
     "appId": "com.healthtracker.app",
     "productName": "HealthTracker 2025",
-    "copyright": "Copyright © 2025 HealthTracker Team",
+    "copyright": "Copyright © RADEXO 2025 HealthTracker Team",
     "directories": {
-      "output": "dist",
-      "resources": "assets"
+      "output": "dist"
     },
     "files": [
       "index.html",
